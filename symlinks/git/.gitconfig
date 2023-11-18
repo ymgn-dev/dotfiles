@@ -1,0 +1,38 @@
+[user]
+  name = ymgn-dev
+  email = ymgn.dev@gmail.com
+[init]
+  defaultBranch = main
+[color]
+  ui = auto
+[core]
+  ignorecase = false
+  quotepath = false
+  safecrlf = true
+  autocrlf = false
+  pager = delta
+  editor = vim
+[interactive]
+  diffFilter = delta --color-only
+[delta]
+  navigate = true    # use n and N to move between diff sections
+  light = false      # set to true if you're in a terminal w/ a light background color (e.g. the default macOS terminal)
+  line-numbers = true
+  side-by-side = true
+[diff]
+  colorMoved = default
+[fetch]
+  prune = true
+[pull]
+  ff = only
+[merge]
+  ff = false
+  conflictstyle = diff3
+[push]
+  default = current
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
