@@ -23,18 +23,14 @@ bun run install
 
 ## Installation Overview
 
-### Commands
+| Commands |
+| -------- |
+| Bat      |
+| Eza      |
+| Delta    |
+| Fzf      |
 
-| Name  |
-| ----- |
-| Bat   |
-| Eza   |
-| Delta |
-| Fzf   |
-
-### GUIs / TUIs
-
-| Name                          |
+| GUIs / TUIs                   |
 | ----------------------------- |
 | Neovim (Nvim)                 |
 | Visual Studio Code (Code)     |
@@ -47,22 +43,16 @@ bun run install
 | VLC Media Player (Vlc)        |
 | GNOME Shell Extension Manager |
 
-### Managers
+| Managers |
+| -------- |
+| Stow     |
+| Rye      |
+| Volta    |
 
-| Name  |
-| ----- |
-| Stow  |
-| Rye   |
-| Volta |
-
-### Fonts
-
-| Name         |
+| Fonts        |
 | ------------ |
 | HackGen Font |
 
-## Other
-
-| Name           |
+| Other          |
 | -------------- |
 | Symbolic Links |
