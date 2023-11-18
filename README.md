@@ -56,3 +56,7 @@ bun run install
 | Other          | Details                 |
 | -------------- | ----------------------- |
 | Symbolic Links | Managing it using Stow. |
+
+## Additional Tasks
+
+Please open the Extension Manager and enable the following extensions.
