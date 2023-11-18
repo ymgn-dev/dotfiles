@@ -24,8 +24,8 @@ const main = async () => {
   console.clear();
   renderTitle();
 
-  if (!readPassword()) {
-    throw new Error('Please enter your password.');
+  if (!(await readPassword())) {
+    throw new Error('Please enter correct password.');
   }
   await prepareForInstallation();
 
