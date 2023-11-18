@@ -1,6 +1,6 @@
 # ymgn's dotfiles
 
-![](https://github.com/ymgn-dev/dotfiles/blob/bun/resources/logo.png)
+![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/logo.png)
 
 ## Requirements
 
