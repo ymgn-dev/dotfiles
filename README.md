@@ -1,5 +1,7 @@
 # ymgn's dotfiles
 
+Dotfiles of the Ubuntu users, by the Ubuntu users, for the Ubuntu users.
+
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/logo.png)
 
 ## Requirements
