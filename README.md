@@ -20,3 +20,49 @@ mkdir -p ~/Workspace && git clone git@github.com:ymgn-dev/dotfiles.git ~/Workspa
 cd Workspace/dotfiles
 bun run install
 ```
+
+## Installation Overview
+
+### Commands
+
+| Name  |
+| ----- |
+| Bat   |
+| Eza   |
+| Delta |
+| Fzf   |
+
+### GUIs / TUIs
+
+| Name                          |
+| ----------------------------- |
+| Neovim (Nvim)                 |
+| Visual Studio Code (Code)     |
+| Tmux                          |
+| Lazygit                       |
+| Wezterm                       |
+| Docker                        |
+| Thorium                       |
+| Google Chrome                 |
+| VLC Media Player (Vlc)        |
+| GNOME Shell Extension Manager |
+
+### Managers
+
+| Name  |
+| ----- |
+| Stow  |
+| Rye   |
+| Volta |
+
+### Fonts
+
+| Name         |
+| ------------ |
+| HackGen Font |
+
+## Other
+
+| Name           |
+| -------------- |
+| Symbolic Links |
