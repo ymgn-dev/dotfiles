@@ -60,3 +60,5 @@ bun run install
 ## Additional Tasks
 
 Please open the Extension Manager and enable the following extensions.
+
+![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/extension-manager.png)
