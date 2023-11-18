@@ -62,3 +62,13 @@ bun run install
 Please open the Extension Manager and enable the following extensions.
 
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/extension-manager.png)
+
+<details>
+<summary>Here are the detailed settings for Tactile.</summary>
+
+![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_layout1.png)
+![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_layout2.png)
+![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_layout3.png)
+![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_keyboard_shortcuts.png)
+
+</details>
