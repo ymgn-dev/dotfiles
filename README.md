@@ -23,36 +23,36 @@ bun run install
 
 ## Installation Overview
 
-| Commands |
-| -------- |
-| Bat      |
-| Eza      |
-| Delta    |
-| Fzf      |
+| Commands | Details                              |
+| -------- | ------------------------------------ |
+| bat      | https://github.com/sharkdp/bat       |
+| eza      | https://github.com/eza-community/eza |
+| delta    | https://github.com/dandavison/delta  |
+| fzf      | https://github.com/junegunn/fzf      |
 
-| GUIs / TUIs                   |
-| ----------------------------- |
-| Neovim (Nvim)                 |
-| Visual Studio Code (Code)     |
-| Tmux                          |
-| Lazygit                       |
-| Wezterm                       |
-| Docker                        |
-| Thorium                       |
-| Google Chrome                 |
-| VLC Media Player (Vlc)        |
-| GNOME Shell Extension Manager |
+| GUIs / TUIs                   | Details                                         |
+| ----------------------------- | ----------------------------------------------- |
+| Neovim                        | https://neovim.io/                              |
+| Visual Studio Code            | https://code.visualstudio.com/                  |
+| Tmux                          | https://github.com/tmux/tmux                    |
+| Lazygit                       | https://github.com/jesseduffield/lazygit        |
+| Wezterm                       | https://wezfurlong.org/wezterm/index.html       |
+| Docker                        | https://www.docker.com/                         |
+| Thorium Reader                | https://www.edrlab.org/software/thorium-reader/ |
+| Google Chrome                 | https://www.google.com/intl/en_US/chrome/       |
+| VLC Media Player              | https://www.videolan.org/vlc/index.en.html      |
+| GNOME Shell Extension Manager | https://mattjakeman.com/apps/extension-manager  |
 
-| Managers |
-| -------- |
-| Stow     |
-| Rye      |
-| Volta    |
+| Managers | Details                            |
+| -------- | ---------------------------------- |
+| GNU Stow | https://www.gnu.org/software/stow/ |
+| Rye      | https://rye-up.com/                |
+| Volta    | https://volta.sh/                  |
 
-| Fonts        |
-| ------------ |
-| HackGen Font |
+| Fonts   | Details                          |
+| ------- | -------------------------------- |
+| HackGen | https://github.com/yuru7/HackGen |
 
-| Other          |
-| -------------- |
-| Symbolic Links |
+| Other          | Details                 |
+| -------------- | ----------------------- |
+| Symbolic Links | Managing it using Stow. |
