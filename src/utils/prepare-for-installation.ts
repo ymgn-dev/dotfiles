@@ -16,7 +16,7 @@ export const prepareForInstallation = async () => {
         sudo -S apt autoclean -y
         sudo -S apt install -y git curl wget software-properties-common
         # Necessary for Pano
-        sudo -S apt install gir1.2-gda-5.0 gir1.2-gsound-1.0
+        sudo -S apt install -y gir1.2-gda-5.0 gir1.2-gsound-1.0
         `,
         { shell: true },
       ),
