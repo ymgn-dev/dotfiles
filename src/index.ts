@@ -8,6 +8,7 @@ import {
   installGnomeShellExtensionManager,
   installGoogleChrome,
   installHackGenFont,
+  installInkscape,
   installLazygit,
   installNvim,
   installRye,
@@ -46,6 +47,7 @@ const main = async () => {
   await installThorium();
   await installGoogleChrome();
   await installVlc();
+  await installInkscape();
   await installGnomeShellExtensionManager();
   await installUsbCreatorGtk();
 

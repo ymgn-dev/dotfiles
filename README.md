@@ -43,6 +43,7 @@ bun run install
 | Thorium Reader                                               | https://www.edrlab.org/software/thorium-reader/                            |
 | Google Chrome                                                | https://www.google.com/intl/en_US/chrome/                                  |
 | VLC Media Player                                             | https://www.videolan.org/vlc/index.en.html                                 |
+| Inkscape                                                     | https://inkscape.org/                                                      |
 | GNOME Shell Extension Manager                                | https://mattjakeman.com/apps/extension-manager                             |
 | usb-creator-gtk ‐ Ubuntu startup disk creation tool for Gtk+ | https://manpages.ubuntu.com/manpages/trusty/en/man8/usb-creator-gtk.8.html |
 

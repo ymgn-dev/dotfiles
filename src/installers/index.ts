@@ -7,6 +7,7 @@ import { installCode } from './code';
 import { installDocker } from './docker';
 import { installGnomeShellExtensionManager } from './gnome-shell-extension-manager';
 import { installGoogleChrome } from './google-chrome';
+import { installInkscape } from './inkscape';
 import { installLazygit } from './lazygit';
 import { installNvim } from './nvim';
 import { installThorium } from './thorium';
@@ -31,6 +32,7 @@ export {
   installTmux,
   installLazygit,
   installWezterm,
+  installInkscape,
   installDocker,
   installThorium,
   installGoogleChrome,
