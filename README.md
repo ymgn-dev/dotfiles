@@ -62,6 +62,8 @@ bun run install
 
 ## Additional Tasks
 
+### Extension Manager
+
 Please open the Extension Manager and enable the following extensions.
 
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/extension-manager.png)
@@ -76,6 +78,8 @@ Please open the Extension Manager and enable the following extensions.
 
 </details>
 
+### Manual Installation
+
 And, we recommend manually installing these tools and commands.
 
 Please follow the documentation for installation.
@@ -83,3 +87,10 @@ Please follow the documentation for installation.
 | Commands      | Details                                    |
 | ------------- | ------------------------------------------ |
 | inshellisense | https://github.com/microsoft/inshellisense |
+
+### Visual Studio Code Settings
+
+https://github.com/ymgn-dev/vscode-settings
+
+In this repository, I am sharing my Visual Studio Code configuration files.
+You can use the same settings by overwriting your local configuration files with these.
