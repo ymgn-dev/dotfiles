@@ -9,7 +9,6 @@ import { installGnomeShellExtensionManager } from './gnome-shell-extension-manag
 import { installGoogleChrome } from './google-chrome';
 import { installInkscape } from './inkscape';
 import { installLazygit } from './lazygit';
-import { installNvim } from './nvim';
 import { installThorium } from './thorium';
 import { installTmux } from './tmux';
 import { installUsbCreatorGtk } from './usb-creator-gtk';
@@ -28,7 +27,6 @@ export {
   installDelta,
   installEza,
   installFzf,
-  installNvim,
   installCode,
   installTmux,
   installLazygit,

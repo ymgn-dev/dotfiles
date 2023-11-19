@@ -40,7 +40,6 @@ bun install
 
 | GUIs / TUIs                                | Details                                                                    |
 | ------------------------------------------ | -------------------------------------------------------------------------- |
-| Neovim                                     | https://neovim.io/                                                         |
 | Visual Studio Code                         | https://code.visualstudio.com/                                             |
 | Tmux                                       | https://github.com/tmux/tmux                                               |
 | Lazygit                                    | https://github.com/jesseduffield/lazygit                                   |

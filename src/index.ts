@@ -11,7 +11,6 @@ import {
   installInkscape,
   installIntelOneMonoFont,
   installLazygit,
-  installNvim,
   installRye,
   installStow,
   installThorium,
@@ -39,7 +38,6 @@ const main = async () => {
   await installFzf();
 
   // GUIs / TUIs
-  await installNvim();
   await installCode();
   await installTmux();
   await installLazygit();
