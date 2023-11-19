@@ -35,12 +35,13 @@ bun install
 
 ## Installation Overview
 
-| Commands | Details                              |
-| -------- | ------------------------------------ |
-| bat      | https://github.com/sharkdp/bat       |
-| eza      | https://github.com/eza-community/eza |
-| delta    | https://github.com/dandavison/delta  |
-| fzf      | https://github.com/junegunn/fzf      |
+| Commands    | Details                              |
+| ----------- | ------------------------------------ |
+| bat         | https://github.com/sharkdp/bat       |
+| eza         | https://github.com/eza-community/eza |
+| delta       | https://github.com/dandavison/delta  |
+| fzf         | https://github.com/junegunn/fzf      |
+| fcitx5-mozc | https://github.com/fcitx/fcitx5      |
 
 | GUIs / TUIs                                | Details                                                                    |
 | ------------------------------------------ | -------------------------------------------------------------------------- |
