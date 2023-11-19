@@ -1,3 +1,4 @@
+import { installAws } from './aws';
 import { installBat } from './bat';
 import { installDelta } from './delta';
 import { installEza } from './eza';
@@ -27,6 +28,7 @@ export {
   installDelta,
   installEza,
   installFzf,
+  installAws,
   installCode,
   installTmux,
   installLazygit,

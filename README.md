@@ -41,6 +41,7 @@ bun install
 | eza      | https://github.com/eza-community/eza |
 | delta    | https://github.com/dandavison/delta  |
 | fzf      | https://github.com/junegunn/fzf      |
+| AWS CLI  | https://aws.amazon.com/cli/?nc1=h_ls |
 
 | GUIs / TUIs                                | Details                                                                    |
 | ------------------------------------------ | -------------------------------------------------------------------------- |

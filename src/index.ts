@@ -1,4 +1,5 @@
 import {
+  installAws,
   installBat,
   installCode,
   installDelta,
@@ -36,6 +37,7 @@ const main = async () => {
   await installEza();
   await installDelta();
   await installFzf();
+  await installAws();
 
   // GUIs / TUIs
   await installCode();
