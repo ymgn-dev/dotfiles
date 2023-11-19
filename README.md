@@ -8,6 +8,7 @@ Dotfiles of the Ubuntu users, by the Ubuntu users, for the Ubuntu users.
 
 ```shell
 # Install Bun
+sudo apt install curl
 curl -fsSL https://bun.sh/install | bash -s "bun-v1.0.13"
 bun upgrade
 
