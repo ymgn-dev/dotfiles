@@ -19,7 +19,7 @@ mkdir -p ~/Workspace && git clone git@github.com:ymgn-dev/dotfiles.git ~/Workspa
 ## Usage
 
 ```shell
-cd Workspace/dotfiles
+cd ~/Workspace/dotfiles
 bun run install
 ```
 
