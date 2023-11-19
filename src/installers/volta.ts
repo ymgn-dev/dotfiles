@@ -10,6 +10,7 @@ export const installVolta = async () => {
         curl https://get.volta.sh | bash &&
         ~/.volta/bin/volta install node &&
         ~/.volta/bin/npm i -g @antfu/ni
+        ~/.volta/bin/npm i -g @microsoft/inshellisense
         `,
         { shell: true },
       );
