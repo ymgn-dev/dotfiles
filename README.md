@@ -6,14 +6,18 @@ Dotfiles of the Ubuntu users, by the Ubuntu users, for the Ubuntu users.
 
 ## Requirements
 
+- Install curl and Bun
+
 ```shell
-# Install curl and Bun
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y curl
 curl -fsSL https://bun.sh/install | bash -s "bun-v1.0.13"
 bun upgrade
+```
 
-# Install Git and clone the repository into your workspace directory.
+- Install Git and clone the repository into your workspace directory.
+
+```shell
 sudo apt install -y git
 mkdir -p ~/Workspace && git clone git@github.com:ymgn-dev/dotfiles.git ~/Workspace/dotfiles
 ```
