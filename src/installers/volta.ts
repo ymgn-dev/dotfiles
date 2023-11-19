@@ -8,8 +8,8 @@ export const installVolta = async () => {
       return execa(
         `
         curl https://get.volta.sh | bash &&
-        volta install node &&
-        npm i -g @antfu/ni
+        ~/.volta/bin/volta install node &&
+        ~/.volta/bin/npm i -g @antfu/ni
         `,
         { shell: true },
       );
