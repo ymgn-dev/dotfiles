@@ -32,20 +32,20 @@ bun run install
 | delta    | https://github.com/dandavison/delta  |
 | fzf      | https://github.com/junegunn/fzf      |
 
-| GUIs / TUIs                                                  | Details                                                                    |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| Neovim                                                       | https://neovim.io/                                                         |
-| Visual Studio Code                                           | https://code.visualstudio.com/                                             |
-| Tmux                                                         | https://github.com/tmux/tmux                                               |
-| Lazygit                                                      | https://github.com/jesseduffield/lazygit                                   |
-| Wezterm                                                      | https://wezfurlong.org/wezterm/index.html                                  |
-| Docker                                                       | https://www.docker.com/                                                    |
-| Thorium Reader                                               | https://www.edrlab.org/software/thorium-reader/                            |
-| Google Chrome                                                | https://www.google.com/intl/en_US/chrome/                                  |
-| VLC Media Player                                             | https://www.videolan.org/vlc/index.en.html                                 |
-| Inkscape                                                     | https://inkscape.org/                                                      |
-| GNOME Shell Extension Manager                                | https://mattjakeman.com/apps/extension-manager                             |
-| usb-creator-gtk ‐ Ubuntu startup disk creation tool for Gtk+ | https://manpages.ubuntu.com/manpages/trusty/en/man8/usb-creator-gtk.8.html |
+| GUIs / TUIs                                | Details                                                                    |
+| ------------------------------------------ | -------------------------------------------------------------------------- |
+| Neovim                                     | https://neovim.io/                                                         |
+| Visual Studio Code                         | https://code.visualstudio.com/                                             |
+| Tmux                                       | https://github.com/tmux/tmux                                               |
+| Lazygit                                    | https://github.com/jesseduffield/lazygit                                   |
+| Wezterm                                    | https://wezfurlong.org/wezterm/index.html                                  |
+| Docker                                     | https://www.docker.com/                                                    |
+| Thorium Reader                             | https://www.edrlab.org/software/thorium-reader/                            |
+| Google Chrome                              | https://www.google.com/intl/en_US/chrome/                                  |
+| VLC Media Player                           | https://www.videolan.org/vlc/index.en.html                                 |
+| Inkscape                                   | https://inkscape.org/                                                      |
+| GNOME Shell Extension Manager              | https://mattjakeman.com/apps/extension-manager                             |
+| Ubuntu startup disk creation tool for Gtk+ | https://manpages.ubuntu.com/manpages/trusty/en/man8/usb-creator-gtk.8.html |
 
 | Managers | Details                            |
 | -------- | ---------------------------------- |
