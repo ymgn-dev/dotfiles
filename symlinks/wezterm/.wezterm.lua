@@ -24,10 +24,6 @@ config.font = wezterm.font_with_fallback({
 })
 config.font_size = 11
 
--- config.color_scheme = 'Pasque (base16)'
--- config.color_scheme = 'Catppuccin Mocha'
 config.color_scheme = 'Everblush'
--- config.color_scheme = 'Mashup Colors (terminal.sexy)'
--- config.color_scheme = 'Gruvbox dark, hard (base16)'
 
 return config

@@ -4,7 +4,7 @@ import chalk from 'chalk';
 import { execa } from 'execa';
 import { spinner } from './spinner';
 
-const SYMLINKS = ['bash', 'editorconfig', 'git', 'ibus', 'tmux', 'wezterm'];
+const SYMLINKS = ['bash', 'editorconfig', 'git', 'tmux', 'wezterm'];
 
 export const createSymbolicLinks = async () => {
   const currentDir = import.meta.dir;

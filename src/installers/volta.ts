@@ -5,10 +5,14 @@ export const installVolta = async () => {
     commandName: 'volta',
     requirePassword: false,
     execaAction: (execa) => {
-      return execa(`
-            curl https://get.volta.sh | bash &&
-            volta install node &&
-            npm i -g @antfu/ni`);
+      return execa(
+        `
+        curl https://get.volta.sh | bash &&
+        volta install node &&
+        npm i -g @antfu/ni
+        `,
+        { shell: true },
+      );
     },
   });
 };
