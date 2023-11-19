@@ -124,4 +124,5 @@ alias g='lazygit'
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 [ -e "$HOME/.rye/env" ] && source "$HOME/.rye/env"
+
 [ -f ~/.inshellisense/key-bindings.bash ] && source ~/.inshellisense/key-bindings.bash
