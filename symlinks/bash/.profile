@@ -34,8 +34,9 @@ export PATH="$VOLTA_HOME/bin:$PATH"
 export BUN_INSTALL="$HOME/.bun"
 export PATH=$BUN_INSTALL/bin:$PATH
 
+# fzf
+export FZF_DEFAULT_OPTS='--height 50% --reverse'
+
 export LANG=ja_JP.utf8
 export LANGUAGE=ja_JP.utf8
 export LC_ALL=ja_JP.utf8
-
-export FZF_DEFAULT_OPTS='--height 50% --reverse'
