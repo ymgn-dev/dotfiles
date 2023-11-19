@@ -123,24 +123,5 @@ alias cp='cp -i'
 alias g='lazygit'
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
-
 [ -e "$HOME/.rye/env" ] && source "$HOME/.rye/env"
-
-# For Neovim Switcher
-alias nvim="NVIM_APPNAME=ymgn.nvim nvim"
-alias vim="NVIM_APPNAME=ymgn.nvim nvim"
-alias nvim-chad="NVIM_APPNAME=NvChad nvim"
-alias nvim-ymgn="NVIM_APPNAME=ymgn.nvim nvim"
-
-nvims() {
-  items=("ymgn.nvim" "NvChad" "default")
-  config=$(printf "%s\n" "${items[@]}" | fzf --prompt="Neovim Config: " --height=~50% --layout=reverse --border --exit-0)
-  if [[ -z $config ]]; then
-    echo "Nothing selected"
-    return 0
-  elif [[ $config == "default" ]]; then
-    config=""
-  fi
-  NVIM_APPNAME=$config nvim $@
-}
-bind -x '"\C-a": nvims'
+[ -f ~/.inshellisense/key-bindings.bash ] && source ~/.inshellisense/key-bindings.bash

@@ -75,3 +75,12 @@ Please open the Extension Manager and enable the following extensions.
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_keyboard_shortcuts.png)
 
 </details>
+
+### Manual Installation
+
+And, we recommend manually installing these tools and commands.
+Please follow the documentation for installation.
+
+| Commands      | Details                                    |
+| ------------- | ------------------------------------------ |
+| inshellisense | https://github.com/microsoft/inshellisense |
