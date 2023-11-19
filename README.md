@@ -35,6 +35,12 @@ bun install
 
 ## Installation Overview
 
+| Managers | Details                            |
+| -------- | ---------------------------------- |
+| GNU Stow | https://www.gnu.org/software/stow/ |
+| Rye      | https://rye-up.com/                |
+| Volta    | https://volta.sh/                  |
+
 | Commands      | Details                                    |
 | ------------- | ------------------------------------------ |
 | bat           | https://github.com/sharkdp/bat             |
@@ -58,12 +64,6 @@ bun install
 | Inkscape                                   | https://inkscape.org/                                                      |
 | GNOME Shell Extension Manager              | https://mattjakeman.com/apps/extension-manager                             |
 | Ubuntu startup disk creation tool for Gtk+ | https://manpages.ubuntu.com/manpages/trusty/en/man8/usb-creator-gtk.8.html |
-
-| Managers | Details                            |
-| -------- | ---------------------------------- |
-| GNU Stow | https://www.gnu.org/software/stow/ |
-| Rye      | https://rye-up.com/                |
-| Volta    | https://volta.sh/                  |
 
 | Fonts          | Details                                 |
 | -------------- | --------------------------------------- |

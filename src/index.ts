@@ -34,7 +34,14 @@ const main = async () => {
   }
   await prepareForInstallation();
 
+  // Managers
+  logger.info('\nManagers');
+  await installStow();
+  await installRye();
+  await installVolta();
+
   // Commands
+  logger.info('\nCommands');
   await installBat();
   await installEza();
   await installDelta();
@@ -44,6 +51,7 @@ const main = async () => {
   await installAws();
 
   // GUIs / TUIs
+  logger.info('\nGUIs / TUIs');
   await installCode();
   await installTmux();
   await installLazygit();
@@ -56,16 +64,13 @@ const main = async () => {
   await installGnomeShellExtensionManager();
   await installUsbCreatorGtk();
 
-  // Managers
-  await installStow();
-  await installRye();
-  await installVolta();
-
   // Fonts
+  logger.info('\nFonts');
   await installHackGenFont();
   await installIntelOneMonoFont();
 
   // Symbolic link
+  logger.info('\nSymbolic links');
   await createSymbolicLinks();
 
   renderEnding();
