@@ -9,6 +9,7 @@ import {
   installGoogleChrome,
   installHackGenFont,
   installInkscape,
+  installIntelOneMonoFont,
   installLazygit,
   installNvim,
   installRye,
@@ -58,6 +59,7 @@ const main = async () => {
 
   // Fonts
   await installHackGenFont();
+  await installIntelOneMonoFont();
 
   // Symbolic link
   await createSymbolicLinks();

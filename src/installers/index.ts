@@ -21,6 +21,7 @@ import { installStow } from './stow';
 import { installVolta } from './volta';
 
 import { installHackGenFont } from './font';
+import { installIntelOneMonoFont } from './font';
 
 export {
   installBat,
@@ -43,4 +44,5 @@ export {
   installRye,
   installGnomeShellExtensionManager,
   installHackGenFont,
+  installIntelOneMonoFont,
 };

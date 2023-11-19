@@ -26,3 +26,30 @@ export const installHackGenFont = async () => {
     },
   });
 };
+
+// https://github.com/intel/intel-one-mono/releases/download/V1.3.0/ttf.zip
+export const installIntelOneMonoFont = async () => {
+  await installHelper({
+    commandName: 'Intel One Mono Font',
+    execaAction: (execa) => {
+      return execa(
+        `
+        wget "https://github.com/intel/intel-one-mono/releases/download/V1.3.0/ttf.zip"
+        unzip ./ttf.zip
+        sudo cp -r ./ttf/*.ttf /usr/local/share/fonts
+        rm -rf ./ttf*
+        fc-cache -vf
+        `,
+        { shell: true },
+      );
+    },
+    overrideExistsMethod: async () => {
+      try {
+        await execa('ls /usr/local/share/fonts/IntelOneMono*.ttf', { shell: true });
+        return true;
+      } catch {
+        return false;
+      }
+    },
+  });
+};
