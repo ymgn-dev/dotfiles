@@ -115,7 +115,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
-alias cat=bat
+alias cat=batcat
 alias ls="eza -1 --colour always --icons --hyperlink"
 alias mv='mv -i'
 alias rm='rm -i'
