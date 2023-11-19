@@ -1,0 +1,5 @@
+; fallback when no lock found
+defaultAgent=npm
+
+; for global installs
+globalAgent=npm
