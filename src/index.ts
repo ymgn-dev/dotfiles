@@ -14,6 +14,7 @@ import {
   installStow,
   installThorium,
   installTmux,
+  installUsbCreatorGtk,
   installVlc,
   installVolta,
   installWezterm,
@@ -46,6 +47,7 @@ const main = async () => {
   await installGoogleChrome();
   await installVlc();
   await installGnomeShellExtensionManager();
+  await installUsbCreatorGtk();
 
   // Managers
   await installStow();

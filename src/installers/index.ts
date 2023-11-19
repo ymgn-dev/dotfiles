@@ -11,6 +11,7 @@ import { installLazygit } from './lazygit';
 import { installNvim } from './nvim';
 import { installThorium } from './thorium';
 import { installTmux } from './tmux';
+import { installUsbCreatorGtk } from './usb-creator-gtk';
 import { installVlc } from './vlc';
 import { installWezterm } from './wezterm';
 
@@ -34,6 +35,7 @@ export {
   installThorium,
   installGoogleChrome,
   installVlc,
+  installUsbCreatorGtk,
   installStow,
   installVolta,
   installRye,
