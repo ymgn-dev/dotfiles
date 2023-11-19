@@ -77,6 +77,7 @@ Please open the Extension Manager and enable the following extensions.
 </details>
 
 And, we recommend manually installing these tools and commands.
+
 Please follow the documentation for installation.
 
 | Commands      | Details                                    |
