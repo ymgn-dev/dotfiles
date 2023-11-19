@@ -4,7 +4,7 @@ export const installGnomeShellExtensionManager = async () => {
   await installHelper({
     commandName: 'extension-manager',
     execaAction: (execa) => {
-      return execa('sudo -S apt install gnome-shell-extension-manager', { shell: true });
+      return execa('sudo -S apt install -y gnome-shell-extension-manager', { shell: true });
     },
   });
 };
