@@ -4,7 +4,6 @@ import {
   installDelta,
   installDocker,
   installEza,
-  installFcitx5Mozc,
   installFzf,
   installGnomeShellExtensionManager,
   installGoogleChrome,
@@ -37,7 +36,6 @@ const main = async () => {
   await installEza();
   await installDelta();
   await installFzf();
-  await installFcitx5Mozc();
 
   // GUIs / TUIs
   await installCode();

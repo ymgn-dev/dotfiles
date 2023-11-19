@@ -1,7 +1,6 @@
 import { installBat } from './bat';
 import { installDelta } from './delta';
 import { installEza } from './eza';
-import { installFcitx5Mozc } from './fcitx5-mozc';
 import { installFzf } from './fzf';
 
 import { installCode } from './code';
@@ -28,7 +27,6 @@ export {
   installDelta,
   installEza,
   installFzf,
-  installFcitx5Mozc,
   installCode,
   installTmux,
   installLazygit,
