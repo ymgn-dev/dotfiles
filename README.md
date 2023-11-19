@@ -59,9 +59,10 @@ bun install
 | Rye      | https://rye-up.com/                |
 | Volta    | https://volta.sh/                  |
 
-| Fonts   | Details                          |
-| ------- | -------------------------------- |
-| HackGen | https://github.com/yuru7/HackGen |
+| Fonts          | Details                                 |
+| -------------- | --------------------------------------- |
+| HackGen        | https://github.com/yuru7/HackGen        |
+| Intel One Mono | https://github.com/intel/intel-one-mono |
 
 | Other          | Details                 |
 | -------------- | ----------------------- |
