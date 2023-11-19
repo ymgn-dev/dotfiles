@@ -16,7 +16,7 @@ type InstallHelperOptions = {
 export const installHelper = async ({ commandName, requirePassword = true, execaAction, overrideExistsMethod }: InstallHelperOptions) => {
   const exists = overrideExistsMethod ? await overrideExistsMethod() : await existsCommand(commandName);
   if (exists) {
-    logger.success(`✔ ${commandName} is already installed.`);
+    logger.success(`✔  ${commandName} is already installed.`);
     return;
   }
   try {

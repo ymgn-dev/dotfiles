@@ -35,13 +35,15 @@ bun install
 
 ## Installation Overview
 
-| Commands | Details                              |
-| -------- | ------------------------------------ |
-| bat      | https://github.com/sharkdp/bat       |
-| eza      | https://github.com/eza-community/eza |
-| delta    | https://github.com/dandavison/delta  |
-| fzf      | https://github.com/junegunn/fzf      |
-| AWS CLI  | https://aws.amazon.com/cli/?nc1=h_ls |
+| Commands      | Details                                    |
+| ------------- | ------------------------------------------ |
+| bat           | https://github.com/sharkdp/bat             |
+| eza           | https://github.com/eza-community/eza       |
+| delta         | https://github.com/dandavison/delta        |
+| fzf           | https://github.com/junegunn/fzf            |
+| ni            | https://github.com/antfu/ni                |
+| inshellisense | https://github.com/microsoft/inshellisense |
+| AWS CLI       | https://aws.amazon.com/cli/?nc1=h_ls       |
 
 | GUIs / TUIs                                | Details                                                                    |
 | ------------------------------------------ | -------------------------------------------------------------------------- |
@@ -89,15 +91,6 @@ Please open the Extension Manager and enable the following extensions.
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_keyboard_shortcuts.png)
 
 </details>
-
-### Manual Installation
-
-And, we recommend manually installing these tools and commands.
-Please follow the documentation for installation.
-
-| Commands      | Details                                    |
-| ------------- | ------------------------------------------ |
-| inshellisense | https://github.com/microsoft/inshellisense |
 
 ### Visual Studio Code Settings
 

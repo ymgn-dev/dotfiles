@@ -10,8 +10,10 @@ import {
   installGoogleChrome,
   installHackGenFont,
   installInkscape,
+  installInshellisense,
   installIntelOneMonoFont,
   installLazygit,
+  installNi,
   installRye,
   installStow,
   installThorium,
@@ -37,6 +39,8 @@ const main = async () => {
   await installEza();
   await installDelta();
   await installFzf();
+  await installInshellisense();
+  await installNi();
   await installAws();
 
   // GUIs / TUIs

@@ -3,6 +3,8 @@ import { installBat } from './bat';
 import { installDelta } from './delta';
 import { installEza } from './eza';
 import { installFzf } from './fzf';
+import { installInshellisense } from './inshellisense';
+import { installNi } from './ni';
 
 import { installCode } from './code';
 import { installDocker } from './docker';
@@ -28,6 +30,8 @@ export {
   installDelta,
   installEza,
   installFzf,
+  installInshellisense,
+  installNi,
   installAws,
   installCode,
   installTmux,
