@@ -21,7 +21,7 @@ mkdir -p ~/Workspace && git clone git@github.com:ymgn-dev/dotfiles.git ~/Workspa
 
 ```shell
 cd ~/Workspace/dotfiles
-bun run install
+bun install
 ```
 
 ## Installation Overview
