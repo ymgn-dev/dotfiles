@@ -37,6 +37,6 @@ export PATH=$BUN_INSTALL/bin:$PATH
 # fzf
 export FZF_DEFAULT_OPTS='--height 50% --reverse'
 
-export LANG=ja_JP.utf8
-export LANGUAGE=ja_JP.utf8
-export LC_ALL=ja_JP.utf8
+export LANG='en_US.UTF-8'
+export LANGUAGE='en_US:en'
+export LC_ALL='en_US.UTF-8'
