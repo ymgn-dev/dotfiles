@@ -76,6 +76,12 @@ bun install
 
 ## Additional Tasks
 
+### Translate the directory name into English
+
+```shell
+LANG=C xdg-user-dirs-gtk-update
+```
+
 ### Extension Manager
 
 Please open the Extension Manager and enable the following extensions.
@@ -89,6 +95,13 @@ Please open the Extension Manager and enable the following extensions.
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_layout2.png)
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_layout3.png)
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_keyboard_shortcuts.png)
+
+</details>
+
+<details>
+<summary>Here are the detailed settings for Pano.</summary>
+
+![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/pano/pano_keyboard_shortcuts.png)
 
 </details>
 
