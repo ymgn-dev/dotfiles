@@ -48,6 +48,7 @@ bun install
 | delta         | https://github.com/dandavison/delta        |
 | fzf           | https://github.com/junegunn/fzf            |
 | ni            | https://github.com/antfu/ni                |
+| XSel          | https://github.com/kfish/xsel              |
 | inshellisense | https://github.com/microsoft/inshellisense |
 | AWS CLI       | https://aws.amazon.com/cli/?nc1=h_ls       |
 

@@ -24,6 +24,7 @@ import { installVolta } from './volta';
 
 import { installHackGenFont } from './font';
 import { installIntelOneMonoFont } from './font';
+import { installXsel } from './xsel';
 
 export {
   installBat,
@@ -32,6 +33,7 @@ export {
   installFzf,
   installInshellisense,
   installNi,
+  installXsel,
   installAws,
   installCode,
   installTmux,

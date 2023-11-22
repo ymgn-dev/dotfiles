@@ -22,6 +22,7 @@ import {
   installVlc,
   installVolta,
   installWezterm,
+  installXsel,
 } from './installers';
 import { createSymbolicLinks, logger, prepareForInstallation, readPassword, renderEnding, renderTitle } from './utils';
 
@@ -48,6 +49,7 @@ const main = async () => {
   await installFzf();
   await installInshellisense();
   await installNi();
+  await installXsel();
   await installAws();
 
   // GUIs / TUIs
