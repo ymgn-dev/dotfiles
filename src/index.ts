@@ -18,6 +18,7 @@ import {
   installStow,
   installThorium,
   installTmux,
+  installTree,
   installUsbCreatorGtk,
   installVlc,
   installVolta,
@@ -50,6 +51,7 @@ const main = async () => {
   await installInshellisense();
   await installNi();
   await installXsel();
+  await installTree();
   await installAws();
 
   // GUIs / TUIs

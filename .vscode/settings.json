@@ -67,11 +67,11 @@
   "cSpell.allowCompoundWords": true,
   "cSpell.language": "en,en-US",
 
-  "[javascript][typescript]": {
+  "[javascript][typescript][javascriptreact][typescriptreact][json][jsonc]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
-  "[javascriptreact][typescriptreact]": {
-    "editor.defaultFormatter": "biomejs.biome"
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
   // File Nesting

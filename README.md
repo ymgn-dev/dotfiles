@@ -49,6 +49,7 @@ bun install
 | fzf           | https://github.com/junegunn/fzf            |
 | ni            | https://github.com/antfu/ni                |
 | XSel          | https://github.com/kfish/xsel              |
+| tree          | http://mama.indstate.edu/users/ice/tree/   |
 | inshellisense | https://github.com/microsoft/inshellisense |
 | AWS CLI       | https://aws.amazon.com/cli/?nc1=h_ls       |
 

@@ -22,33 +22,34 @@ import { installRye } from './rye';
 import { installStow } from './stow';
 import { installVolta } from './volta';
 
-import { installHackGenFont } from './font';
-import { installIntelOneMonoFont } from './font';
+import { installHackGenFont, installIntelOneMonoFont } from './font';
+import { installTree } from './tree';
 import { installXsel } from './xsel';
 
 export {
+  installAws,
   installBat,
+  installCode,
   installDelta,
+  installDocker,
   installEza,
   installFzf,
-  installInshellisense,
-  installNi,
-  installXsel,
-  installAws,
-  installCode,
-  installTmux,
-  installLazygit,
-  installWezterm,
-  installInkscape,
-  installDocker,
-  installThorium,
-  installGoogleChrome,
-  installVlc,
-  installUsbCreatorGtk,
-  installStow,
-  installVolta,
-  installRye,
   installGnomeShellExtensionManager,
+  installGoogleChrome,
   installHackGenFont,
+  installInkscape,
+  installInshellisense,
   installIntelOneMonoFont,
+  installLazygit,
+  installNi,
+  installRye,
+  installStow,
+  installThorium,
+  installTmux,
+  installTree,
+  installUsbCreatorGtk,
+  installVlc,
+  installVolta,
+  installWezterm,
+  installXsel,
 };
