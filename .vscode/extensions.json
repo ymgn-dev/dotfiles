@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "biomejs.biome",
+    "oven.bun-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "dsznajder.es7-react-js-snippets",
+    "figma.figma-vscode-extension",
+    "github.copilot",
+    "github.copilot-chat",
+    "github.github-vscode-theme",
+    "xabikos.javascriptsnippets",
+    "ms-vsliveshare.vsliveshare",
+    "bradlc.vscode-tailwindcss",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
