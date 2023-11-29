@@ -13,6 +13,7 @@ import {
   installInshellisense,
   installIntelOneMonoFont,
   installLazygit,
+  installMkusb,
   installNi,
   installRye,
   installStow,
@@ -67,6 +68,7 @@ const main = async () => {
   await installInkscape();
   await installGnomeShellExtensionManager();
   await installUsbCreatorGtk();
+  await installMkusb();
 
   // Fonts
   logger.info('\nFonts');

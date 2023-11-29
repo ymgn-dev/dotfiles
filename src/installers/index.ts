@@ -12,6 +12,7 @@ import { installGnomeShellExtensionManager } from './gnome-shell-extension-manag
 import { installGoogleChrome } from './google-chrome';
 import { installInkscape } from './inkscape';
 import { installLazygit } from './lazygit';
+import { installMkusb } from './mkusb';
 import { installThorium } from './thorium';
 import { installTmux } from './tmux';
 import { installUsbCreatorGtk } from './usb-creator-gtk';
@@ -41,6 +42,7 @@ export {
   installInshellisense,
   installIntelOneMonoFont,
   installLazygit,
+  installMkusb,
   installNi,
   installRye,
   installStow,

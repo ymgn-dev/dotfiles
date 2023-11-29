@@ -66,6 +66,7 @@ bun install
 | Inkscape                                   | https://inkscape.org/                                                      |
 | GNOME Shell Extension Manager              | https://mattjakeman.com/apps/extension-manager                             |
 | Ubuntu startup disk creation tool for Gtk+ | https://manpages.ubuntu.com/manpages/trusty/en/man8/usb-creator-gtk.8.html |
+| mkusb                                      | https://help.ubuntu.com/community/mkusb                                    |
 
 | Fonts          | Details                                 |
 | -------------- | --------------------------------------- |
