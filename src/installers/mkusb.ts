@@ -8,7 +8,7 @@ export const installMkusb = async () => {
         `
         sudo -S add-apt-repository ppa:mkusb/ppa
         sudo -S apt update
-        sudo -S apt install mkusb
+        sudo -S apt install -y mkusb
         `,
         { shell: true },
       );
