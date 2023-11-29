@@ -16,7 +16,7 @@ sudo apt install -y curl git
 - Install Bun
 
 ```shell
-curl -fsSL https://bun.sh/install | bash -s "bun-v1.0.13"
+curl -fsSL https://bun.sh/install | bash -s "bun-v1.0.14"
 ```
 
 - Clone this repository into your workspace directory.
