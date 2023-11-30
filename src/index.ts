@@ -5,6 +5,7 @@ import {
   installDelta,
   installDocker,
   installEza,
+  installFfmpeg,
   installFzf,
   installGnomeShellExtensionManager,
   installGoogleChrome,
@@ -54,6 +55,7 @@ const main = async () => {
   await installXsel();
   await installTree();
   await installAws();
+  await installFfmpeg();
 
   // GUIs / TUIs
   logger.info('\nGUIs / TUIs');

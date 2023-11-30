@@ -37,36 +37,37 @@ bun install
 
 | Managers | Details                            |
 | -------- | ---------------------------------- |
-| GNU Stow | https://www.gnu.org/software/stow/ |
 | Rye      | https://rye-up.com/                |
+| GNU Stow | https://www.gnu.org/software/stow/ |
 | Volta    | https://volta.sh/                  |
 
 | Commands      | Details                                    |
 | ------------- | ------------------------------------------ |
-| bat           | https://github.com/sharkdp/bat             |
-| eza           | https://github.com/eza-community/eza       |
-| delta         | https://github.com/dandavison/delta        |
-| fzf           | https://github.com/junegunn/fzf            |
-| ni            | https://github.com/antfu/ni                |
-| XSel          | https://github.com/kfish/xsel              |
-| tree          | http://mama.indstate.edu/users/ice/tree/   |
-| inshellisense | https://github.com/microsoft/inshellisense |
 | AWS CLI       | https://aws.amazon.com/cli/?nc1=h_ls       |
+| bat           | https://github.com/sharkdp/bat             |
+| delta         | https://github.com/dandavison/delta        |
+| eza           | https://github.com/eza-community/eza       |
+| FFmpeg        | https://ffmpeg.org/                        |
+| fzf           | https://github.com/junegunn/fzf            |
+| inshellisense | https://github.com/microsoft/inshellisense |
+| ni            | https://github.com/antfu/ni                |
+| tree          | http://mama.indstate.edu/users/ice/tree/   |
+| XSel          | https://github.com/kfish/xsel              |
 
 | GUIs / TUIs                                | Details                                                                    |
 | ------------------------------------------ | -------------------------------------------------------------------------- |
 | Visual Studio Code                         | https://code.visualstudio.com/                                             |
-| Tmux                                       | https://github.com/tmux/tmux                                               |
-| Lazygit                                    | https://github.com/jesseduffield/lazygit                                   |
-| Wezterm                                    | https://wezfurlong.org/wezterm/index.html                                  |
 | Docker                                     | https://www.docker.com/                                                    |
-| Thorium Reader                             | https://www.edrlab.org/software/thorium-reader/                            |
-| Google Chrome                              | https://www.google.com/intl/en_US/chrome/                                  |
-| VLC Media Player                           | https://www.videolan.org/vlc/index.en.html                                 |
-| Inkscape                                   | https://inkscape.org/                                                      |
 | GNOME Shell Extension Manager              | https://mattjakeman.com/apps/extension-manager                             |
-| Ubuntu startup disk creation tool for Gtk+ | https://manpages.ubuntu.com/manpages/trusty/en/man8/usb-creator-gtk.8.html |
+| Google Chrome                              | https://www.google.com/intl/en_US/chrome/                                  |
+| Inkscape                                   | https://inkscape.org/                                                      |
+| Lazygit                                    | https://github.com/jesseduffield/lazygit                                   |
 | mkusb                                      | https://help.ubuntu.com/community/mkusb                                    |
+| Thorium Reader                             | https://www.edrlab.org/software/thorium-reader/                            |
+| Tmux                                       | https://github.com/tmux/tmux                                               |
+| Ubuntu startup disk creation tool for Gtk+ | https://manpages.ubuntu.com/manpages/trusty/en/man8/usb-creator-gtk.8.html |
+| VLC Media Player                           | https://www.videolan.org/vlc/index.en.html                                 |
+| Wezterm                                    | https://wezfurlong.org/wezterm/index.html                                  |
 
 | Fonts          | Details                                 |
 | -------------- | --------------------------------------- |
