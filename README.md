@@ -98,7 +98,9 @@ Please open the Extension Manager and enable the following extensions.
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_layout1.png)
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_layout2.png)
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_layout3.png)
+![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_layout4.png)
 ![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_keyboard_shortcuts.png)
+![](https://github.com/ymgn-dev/dotfiles/blob/main/resources/tactile/tactile_advanced.png)
 
 </details>
 
