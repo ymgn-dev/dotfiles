@@ -6,6 +6,7 @@ import {
   installDocker,
   installEza,
   installFfmpeg,
+  installFirebase,
   installFzf,
   installGnomeShellExtensionManager,
   installGoogleChrome,
@@ -40,37 +41,38 @@ const main = async () => {
 
   // Managers
   logger.info('\nManagers');
-  await installStow();
   await installRye();
+  await installStow();
   await installVolta();
 
   // Commands
   logger.info('\nCommands');
+  await installAws();
   await installBat();
-  await installEza();
   await installDelta();
+  await installEza();
+  await installFfmpeg();
+  await installFirebase();
   await installFzf();
   await installInshellisense();
   await installNi();
-  await installXsel();
   await installTree();
-  await installAws();
-  await installFfmpeg();
+  await installXsel();
 
   // GUIs / TUIs
   logger.info('\nGUIs / TUIs');
   await installCode();
-  await installTmux();
-  await installLazygit();
-  await installWezterm();
   await installDocker();
-  await installThorium();
-  await installGoogleChrome();
-  await installVlc();
-  await installInkscape();
   await installGnomeShellExtensionManager();
-  await installUsbCreatorGtk();
+  await installGoogleChrome();
+  await installInkscape();
+  await installLazygit();
   await installMkusb();
+  await installThorium();
+  await installTmux();
+  await installUsbCreatorGtk();
+  await installVlc();
+  await installWezterm();
 
   // Fonts
   logger.info('\nFonts');

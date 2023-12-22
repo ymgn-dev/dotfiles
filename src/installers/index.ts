@@ -9,6 +9,7 @@ import { installBat } from './bat';
 import { installDelta } from './delta';
 import { installEza } from './eza';
 import { installFfmpeg } from './ffmpeg';
+import { installFirebase } from './firebase';
 import { installFzf } from './fzf';
 import { installInshellisense } from './inshellisense';
 import { installNi } from './ni';
@@ -33,35 +34,32 @@ import { installWezterm } from './wezterm';
 import { installHackGenFont, installIntelOneMonoFont } from './font';
 
 export {
-  // Managers
-  installRye,
-  installStow,
-  installVolta,
-  // Commands
   installAws,
   installBat,
+  installCode,
   installDelta,
+  installDocker,
   installEza,
   installFfmpeg,
+  installFirebase,
   installFzf,
-  installInshellisense,
-  installNi,
-  installTree,
-  installXsel,
-  // GUIs / TUIs
-  installCode,
-  installDocker,
   installGnomeShellExtensionManager,
   installGoogleChrome,
+  installHackGenFont,
   installInkscape,
+  installInshellisense,
+  installIntelOneMonoFont,
   installLazygit,
   installMkusb,
+  installNi,
+  installRye,
+  installStow,
   installThorium,
   installTmux,
+  installTree,
   installUsbCreatorGtk,
   installVlc,
+  installVolta,
   installWezterm,
-  // Fonts
-  installHackGenFont,
-  installIntelOneMonoFont,
+  installXsel,
 };

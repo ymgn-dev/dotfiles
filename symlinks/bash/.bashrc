@@ -127,3 +127,6 @@ alias g='lazygit'
 [ -f ~/.inshellisense/key-bindings.bash ] && source ~/.inshellisense/key-bindings.bash
 
 [ -f /usr/share/doc/fzf/examples/key-bindings.bash ] && source /usr/share/doc/fzf/examples/key-bindings.bash
+
+# Turso
+export PATH="/home/ymgn/.turso:$PATH"

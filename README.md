@@ -48,6 +48,7 @@ bun install
 | delta         | https://github.com/dandavison/delta        |
 | eza           | https://github.com/eza-community/eza       |
 | FFmpeg        | https://ffmpeg.org/                        |
+| Firebase CLI  | https://firebase.google.com/docs/cli       |
 | fzf           | https://github.com/junegunn/fzf            |
 | inshellisense | https://github.com/microsoft/inshellisense |
 | ni            | https://github.com/antfu/ni                |
