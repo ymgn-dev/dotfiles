@@ -1,6 +1,7 @@
 import {
   installAws,
   installBat,
+  installCdk,
   installCode,
   installDelta,
   installDocker,
@@ -49,6 +50,7 @@ const main = async () => {
   logger.info('\nCommands');
   await installAws();
   await installBat();
+  await installCdk();
   await installDelta();
   await installEza();
   await installFfmpeg();

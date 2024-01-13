@@ -6,6 +6,7 @@ import { installVolta } from './volta';
 // Commands
 import { installAws } from './aws';
 import { installBat } from './bat';
+import { installCdk } from './cdk';
 import { installDelta } from './delta';
 import { installEza } from './eza';
 import { installFfmpeg } from './ffmpeg';
@@ -36,6 +37,7 @@ import { installHackGenFont, installIntelOneMonoFont } from './font';
 export {
   installAws,
   installBat,
+  installCdk,
   installCode,
   installDelta,
   installDocker,
