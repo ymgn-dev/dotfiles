@@ -53,6 +53,7 @@ bun install
 | fzf           | https://github.com/junegunn/fzf            |
 | inshellisense | https://github.com/microsoft/inshellisense |
 | ni            | https://github.com/antfu/ni                |
+| Terraform     | https://developer.hashicorp.com/terraform  |
 | tree          | http://mama.indstate.edu/users/ice/tree/   |
 | XSel          | https://github.com/kfish/xsel              |
 

@@ -14,6 +14,7 @@ import { installFirebase } from './firebase';
 import { installFzf } from './fzf';
 import { installInshellisense } from './inshellisense';
 import { installNi } from './ni';
+import { installTerraform } from './terraform';
 import { installTree } from './tree';
 import { installXsel } from './xsel';
 
@@ -56,6 +57,7 @@ export {
   installNi,
   installRye,
   installStow,
+  installTerraform,
   installThorium,
   installTmux,
   installTree,

@@ -20,6 +20,7 @@ import {
   installNi,
   installRye,
   installStow,
+  installTerraform,
   installThorium,
   installTmux,
   installTree,
@@ -58,6 +59,7 @@ const main = async () => {
   await installFzf();
   await installInshellisense();
   await installNi();
+  await installTerraform();
   await installTree();
   await installXsel();
 
