@@ -1,18 +1,21 @@
 {
   "recommendations": [
-    "formulahendry.auto-rename-tag",
     "biomejs.biome",
-    "oven.bun-vscode",
-    "streetsidesoftware.code-spell-checker",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
     "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode",
     "figma.figma-vscode-extension",
     "github.copilot",
     "github.copilot-chat",
     "github.github-vscode-theme",
-    "xabikos.javascriptsnippets",
     "ms-vsliveshare.vsliveshare",
-    "esbenp.prettier-vscode",
-    "bradlc.vscode-tailwindcss",
-    "vscode-icons-team.vscode-icons"
+    "oven.bun-vscode",
+    "prisma.prisma",
+    "renesaarsoo.sql-formatter-vsc",
+    "streetsidesoftware.code-spell-checker",
+    "vscode-icons-team.vscode-icons",
+    "xabikos.javascriptsnippets",
+    "yoavbls.pretty-ts-errors"
   ]
 }
