@@ -6,7 +6,13 @@ export const installInshellisense = async () => {
     commandName: 'inshellisense',
     requirePassword: false,
     execaAction: (execa) => {
-      return execa('~/.volta/bin/npm i -g @microsoft/inshellisense', { shell: true });
+      return execa(
+        `
+        ~/.volta/bin/npm i -g node-gyp
+        ~/.volta/bin/npm i -g @microsoft/inshellisense
+        `,
+        { shell: true },
+      );
     },
     overrideExistsMethod: async () => {
       try {
