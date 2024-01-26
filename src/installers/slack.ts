@@ -2,7 +2,7 @@ import { installHelper } from '~/utils/install-helper';
 
 export const installSlack = async () => {
   await installHelper({
-    commandName: 'slack-desktop',
+    commandName: 'slack',
     execaAction: (execa) => {
       return execa(
         `

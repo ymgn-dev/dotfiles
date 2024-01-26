@@ -7,6 +7,7 @@ import {
   installDocker,
   installEza,
   installFfmpeg,
+  installFigmaLinux,
   installFirebase,
   installFzf,
   installGnomeShellExtensionManager,
@@ -68,6 +69,7 @@ const main = async () => {
   logger.info('\nGUIs / TUIs');
   await installCode();
   await installDocker();
+  await installFigmaLinux();
   await installGnomeShellExtensionManager();
   await installGoogleChrome();
   await installInkscape();

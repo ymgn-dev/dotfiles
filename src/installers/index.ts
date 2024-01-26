@@ -21,6 +21,7 @@ import { installXsel } from './xsel';
 // GUIs / TUIs
 import { installCode } from './code';
 import { installDocker } from './docker';
+import { installFigmaLinux } from './figma-linux';
 import { installGnomeShellExtensionManager } from './gnome-shell-extension-manager';
 import { installGoogleChrome } from './google-chrome';
 import { installInkscape } from './inkscape';
@@ -45,6 +46,7 @@ export {
   installDocker,
   installEza,
   installFfmpeg,
+  installFigmaLinux,
   installFirebase,
   installFzf,
   installGnomeShellExtensionManager,

@@ -37,8 +37,8 @@ bun install
 
 | Managers | Details                            |
 | -------- | ---------------------------------- |
-| Rye      | https://rye-up.com/                |
 | GNU Stow | https://www.gnu.org/software/stow/ |
+| Rye      | https://rye-up.com/                |
 | Volta    | https://volta.sh/                  |
 
 | Commands      | Details                                    |
@@ -59,19 +59,20 @@ bun install
 
 | GUIs / TUIs                                | Details                                                                    |
 | ------------------------------------------ | -------------------------------------------------------------------------- |
-| Visual Studio Code                         | https://code.visualstudio.com/                                             |
 | Docker                                     | https://www.docker.com/                                                    |
+| Figma-linux                                | https://github.com/Figma-Linux/figma-linux                                 |
 | GNOME Shell Extension Manager              | https://mattjakeman.com/apps/extension-manager                             |
 | Google Chrome                              | https://www.google.com/intl/en_US/chrome/                                  |
 | Inkscape                                   | https://inkscape.org/                                                      |
 | Lazygit                                    | https://github.com/jesseduffield/lazygit                                   |
 | mkusb                                      | https://help.ubuntu.com/community/mkusb                                    |
+| Slack                                      | https://slack.com/                                                         |
 | Thorium Reader                             | https://www.edrlab.org/software/thorium-reader/                            |
 | Tmux                                       | https://github.com/tmux/tmux                                               |
 | Ubuntu startup disk creation tool for Gtk+ | https://manpages.ubuntu.com/manpages/trusty/en/man8/usb-creator-gtk.8.html |
+| Visual Studio Code                         | https://code.visualstudio.com/                                             |
 | VLC Media Player                           | https://www.videolan.org/vlc/index.en.html                                 |
 | Wezterm                                    | https://wezfurlong.org/wezterm/index.html                                  |
-| Slack                                      | https://slack.com/                                                         |
 
 | Fonts          | Details                                 |
 | -------------- | --------------------------------------- |
