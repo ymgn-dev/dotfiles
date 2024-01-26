@@ -19,6 +19,7 @@ import {
   installMkusb,
   installNi,
   installRye,
+  installSlack,
   installStow,
   installTerraform,
   installThorium,
@@ -72,6 +73,7 @@ const main = async () => {
   await installInkscape();
   await installLazygit();
   await installMkusb();
+  await installSlack();
   await installThorium();
   await installTmux();
   await installUsbCreatorGtk();

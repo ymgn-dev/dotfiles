@@ -71,6 +71,7 @@ bun install
 | Ubuntu startup disk creation tool for Gtk+ | https://manpages.ubuntu.com/manpages/trusty/en/man8/usb-creator-gtk.8.html |
 | VLC Media Player                           | https://www.videolan.org/vlc/index.en.html                                 |
 | Wezterm                                    | https://wezfurlong.org/wezterm/index.html                                  |
+| Slack                                      | https://slack.com/                                                         |
 
 | Fonts          | Details                                 |
 | -------------- | --------------------------------------- |

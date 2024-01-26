@@ -26,6 +26,7 @@ import { installGoogleChrome } from './google-chrome';
 import { installInkscape } from './inkscape';
 import { installLazygit } from './lazygit';
 import { installMkusb } from './mkusb';
+import { installSlack } from './slack';
 import { installThorium } from './thorium';
 import { installTmux } from './tmux';
 import { installUsbCreatorGtk } from './usb-creator-gtk';
@@ -56,6 +57,7 @@ export {
   installMkusb,
   installNi,
   installRye,
+  installSlack,
   installStow,
   installTerraform,
   installThorium,
